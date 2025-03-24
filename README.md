@@ -24,7 +24,7 @@ This project implements **realistic physics-based movement** for a bucket suspen
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/unity-pendulum-bucket.git
+   git clone https://github.com/sameerzakzak-gr/unity-pendulum-bucket.git
    cd unity-pendulum-bucket
 2. Clone the repository:
   Open in Unity (tested on Unity 2022+).
